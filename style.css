@@ -1,7 +1,8 @@
 h1 {
+    font-family: Garamond, serif;
     text-align: center;
     font-size: 60px;
-    background-color: red;
+    background-color: red; 
 }
 
 h2 {
